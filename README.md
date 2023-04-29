@@ -1,2 +1,6 @@
 # Joke_Generator
 Random joke generator using api...
+
+Just Enhancing the use of Api. Not looking to Styling the template...
+
+![Joke](https://user-images.githubusercontent.com/102974292/235320670-51ef8f42-f67a-4468-8bf5-30ce52e63dc7.png)
